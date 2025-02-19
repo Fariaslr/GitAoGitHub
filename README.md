@@ -20,7 +20,7 @@ Agora, clonamos um repositório existente do GitHub:
 C:\repos> git clone https://github.com/seuUsuario/seu-repositorio.git
 ```
 
-E acessamos a pasta do repositório clonado:
+E acessamos a pasta do repositório clonado::
 ```bash
 C:\repos> cd GitAoGitHub
 ```
@@ -37,7 +37,7 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 Untracked files:
-  (use "git add <file>..." to include in what will be committed)
+  (use "git add <file>..." to include in what will be committed))
         index.html
 
 nothing added to commit but untracked files present (use "git add" to track)
